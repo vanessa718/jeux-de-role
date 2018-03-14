@@ -1,0 +1,39 @@
+.fond {
+	background-image: url("../css/img/Fond.jpg");
+	position: fixed;
+	display: flex;
+	flex-direction: column;
+    justify-content: center;
+    align-items: center;
+	height: 100%;
+	width: 100%;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+h1 {
+	color : #d3002a;
+	font-family: Tahoma, Geneva, sans-serif;
+	font-weight: bold;
+}
+
+h2 {
+	margin-left: auto;
+}
+
+header {
+	background-color: #5a6668
+}
+
+footer {
+	position: fixed;
+	bottom: 0;
+	width: 100%;
+}
+
+.navbar-brand {
+	text-align: center;
+	justify-content: center;
+	flex-direction: column;
+	align-items: center;
+}
