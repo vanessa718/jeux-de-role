@@ -9,10 +9,11 @@
 </head>
 <body>
 
-
+<!--va aller chercher le contenu header dans le fichier header.php-->	
+	<?php include("includes/menu.php");?>
 
 <!--va aller chercher le contenu header dans le fichier header.php-->	
-	<?php include("header.php");?>
+	<?php include("includes/header.php");?>
 
 
 
@@ -32,7 +33,7 @@
 
 
 <!-- va chercher le contenu dans le fichier footer.php-->	
-	<?php include("footer.php");?>
+	<?php include("includes/footer.php");?>
 
 
 	<script type="text/javascript" src="node_modules/jquery/dist/jquery.min.js"></script>
