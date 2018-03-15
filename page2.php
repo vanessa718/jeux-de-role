@@ -17,7 +17,7 @@
 
 
 <!--START MENU ACCODION-->
-<div class="container col-lg-12 col-md-12" id="accordion">
+<div class="container1 col-lg-12 col-md-12" id="accordion">
   <div class="card">
     <div class="card-header" id="headingOne">
       <h5 class="mb-0">
