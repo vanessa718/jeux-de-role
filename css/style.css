@@ -35,7 +35,7 @@ footer {
 }
 
 .card-img-top {
-
+	justify-content: center;
 	width: 70%;
 	height: 70%;
 }
@@ -43,6 +43,7 @@ footer {
 .card-hero {
 	justify-content: space-between;
 	display: inline-flex;
+
 }	
 .navbar-brand {
 	text-align: center;
@@ -57,4 +58,5 @@ h2{
 	text-align: center;
 
 }
+
 
