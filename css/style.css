@@ -40,7 +40,7 @@ footer {
 	height: 70%;
 }
 
-.container {
+.card-hero {
 	justify-content: space-between;
 	display: inline-flex;
 }	
@@ -53,11 +53,8 @@ footer {
 h4{
 	text-align: center;
 }
-/*.card-body{
-	display: inline-flex;
-
-}*/
-span{
+h2{
 	text-align: center;
 
 }
+

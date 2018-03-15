@@ -11,4 +11,5 @@
 		$(".collapse").removeClass("show");
 		$("#collapseThree").toggleClass("show");
 	})
+	
 })()

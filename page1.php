@@ -3,7 +3,7 @@
 	include('includes/header.php');
 	include ('includes/footer.php');
 ?>
-<h3>Héroines</h3>
+<h3>Héroïnes</h3>
 	<br>
 <div class="container">	
 	<div class="card" style="width: 15rem;">
