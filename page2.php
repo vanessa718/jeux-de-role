@@ -17,8 +17,8 @@
 
 
 <!--START MENU ACCODION-->
-<div id="accordion">
-  <div class="card col-sm-12">
+<div class="container col-lg-12 col-md-12" id="accordion">
+  <div class="card">
     <div class="card-header" id="headingOne">
       <h5 class="mb-0">
       	
@@ -29,7 +29,7 @@
     </div>
 
     <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordion">
-      <div class="card-body col-sm-5">
+      <div class="row card-body col-lg-6 col-md-6">
 		<table class="table table-bordered">
 		  <thead>
 		  	<p>Coup porté:</p>
@@ -64,7 +64,7 @@
 		  </tbody>
 		</table>
 	  </div>	
-	  <div class="card-body col-sm-5">	
+	  <div class="row card-body col-lg-6 col-md-6">	
 		<table class="table table-bordered">
 		  <thead>
 		  	<h5>Monstres:</h5>
