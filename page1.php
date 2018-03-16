@@ -3,18 +3,12 @@
 	include('includes/header.php');
 	include ('includes/footer.php');
 ?>
-<<<<<<< HEAD
-<h3>Héroïnes</h3>
-	<br>
-<div class="container">	
-	<div class="card" style="width: 15rem;">
-  		<img class="card-img-top" src="css/img/Elfe.jpg" alt="Card image cap">
-=======
+
 <h3>Héroines</h3>
 <div class="container card-hero">	
 	<div class="card" style="width: 8rem;">
   		<img class="card-img-top-elfe" src="css/img/Elfe2.jpg" alt="Card image cap">
->>>>>>> 308f084099b3ba9e93715db98e879341c2be0407
+
   		<div class="card-body">
     		<h4 class="card-title">Elfe</h4>
     	</div>
@@ -40,6 +34,7 @@
     		<h4 class="card-title">Naine</h4>
   		</div>
 	</div>	
+</div>
 </div>
 
 <h3>Monstres</h3>

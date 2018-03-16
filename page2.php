@@ -32,7 +32,7 @@
 		      </h5>
 		    </div>
 
-		    <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordion">
+		    <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordion">
 			 	<div class="row">
 			 		<div class="col-sm-12">
 						<h3>Coup porté: 25</h3>
@@ -285,5 +285,29 @@
 </div>
 <!--END MENU ACCORDION-->
 <h2>Fin du combat</h2>
+<!-- RESULT COMBAT START -->
+<div class="container">
+			<div class="row">
+				<div class="col-12">
+	<div class="card text-center combat">
+		<div class="card-header">
+			    Victoire l'ennemi est vaincu
+			  </div>
+			</div>
+		</div> 
+
+	</div>
+</div>	
+<!--RESULT COMBAT END -->
+<div class="container">
+	<div class="row paragraph">
+		<div class="col-sm-6">
+			<p>Robur sedibus abierat resistere postquam conati porrecta casu nec abierat cohortium nec vicos opulentos relictum quae acciverunt digressi planitie porrecta et equestrium victu in et et relictum abierat omne sedibus sedibus opulentos retroque recreati propinquabant acciverunt cohortium acciverunt quiete conati quiete sunt quae adorti vicos timor planitie retroque victu retroque.</p>
+		</div>	
+		<div class="col-sm-6">
+			<p>Robur sedibus abierat resistere postquam conati porrecta casu nec abierat cohortium nec vicos opulentos relictum quae acciverunt digressi planitie porrecta et equestrium victu in et et relictum abierat omne sedibus sedibus opulentos retroque recreati propinquabant acciverunt cohortium acciverunt quiete conati quiete sunt quae adorti vicos timor planitie retroque victu retroque.</p>
+		</div>	
+	</div>
+</div>	
 <!-- va chercher le contenu dans le fichier footer.php-->	
 	<?php include("includes/footer.php");?>
