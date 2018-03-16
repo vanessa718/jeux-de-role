@@ -8,10 +8,12 @@
 
 
 	<div class="card text-center">
-		  <div class="fond">
-		    <h1 class="card-title">Le choc des Simploniens !</h1>
+		  <!-- <div class="fond"> -->
+		  	<img class="card-img index-img" src="../css/img/Fond.jpg" alt="Card image">
+		 <div class="card-img-overlay index-card">
+		    <h1 class="card-title card-text">Le choc des Simploniens !</h1>
 		    <a href="#" class="btn btn-danger">Commencer le combat</a>
-		  </div> 
+		</div>  
 	</div>
 
 

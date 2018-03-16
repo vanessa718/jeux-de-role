@@ -1,8 +1,19 @@
 /* INDEX.PHP*/
-.fond {
-	background-image: url("../css/img/Fond.jpg");
+.index-img{
+	background-size: cover;
+	max-width: 100%;
+	min-height: 100vh;
+	display: block;
+}
+.index-card{
+	margin-top: 25%;
+}
+/*.fond {
+	/*background-image: url("../css/img/Fond.jpg");
 	position: fixed;
 	display: flex;
+	-webkit-background-size: cover;
+	background-size: cover;
 	flex-direction: column;
     justify-content: center;
     align-items: center;
@@ -11,7 +22,7 @@
 	background-repeat: no-repeat;
 	background-size: cover;
 }
-
+*/
 h1 {
 	color : #d3002a;
 	font-family: Tahoma, Geneva, sans-serif;
@@ -32,11 +43,11 @@ h4 {
 }
 /*      HEADER       */
 header {
-	background-color: #5a6668
+	background-color: #5a6668;
 }
 /*       FOOTER      */
 footer {
-	position: fixed;
+	
 	bottom: 0;
 	width: 100%;
 	color: white;
@@ -94,4 +105,27 @@ footer {
 .combat{
 	margin: 5em;
 }
-
+.resultCombat{
+	margin-top: 1em;
+	height: 5em;
+	font-weight: bold;
+	font-size: 2em;
+}
+.paragraph{
+	margin-top: 3em;
+}
+.feature::after{
+	content: " ";
+	display: block;
+	margin:40px auto 40px;
+	width: 100px;
+	height: 2px;
+	background-color: black;	
+}
+.cardCombat{
+	text-align: center;
+}
+#btnAccordion{
+	background-color: #5a6668;
+	color: #fff;
+}
